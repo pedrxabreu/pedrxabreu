@@ -1,8 +1,8 @@
 <h1> 👋 Hi, I’m Pedro Henrique Abreu </h1>
 
 <p> - 📍 I'm from Rio Grande do Sul, Brazil </p>
-<p> - 🖥️ I work with front end </p>
-<p> - 📚 I’m currently learning HTML and Javascript </p>
+<p> - 🖥️ I work with back end </p>
+<p> - 📚 I’m currently learning Javascript </p>
 <p> - 📬 You can contact me in the pedroabreuiv@gmail.com </p>  
 
 ##
